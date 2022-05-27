@@ -10,6 +10,9 @@ body {
   gap: 1em;
 
   height: 100vh;
+
+  background-color: #ffffff;
+  background-image: url("/textured-paper.png");
 }
 
 nav {
@@ -42,4 +45,6 @@ main {
 
   min-width: 20em;
   min-height: 15em;
+
+  background-color: #ffffff75;
 }
