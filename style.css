@@ -26,16 +26,8 @@ nav {
   cursor: pointer;
 }
 
-.nav-link:hover {
-  text-decoration: underline;
-}
-
 .nav-link-active {
-  font-weight: bold;
-}
-
-.nav-link-active:hover {
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 main {
